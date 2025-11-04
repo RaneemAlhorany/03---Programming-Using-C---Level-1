@@ -1,0 +1,3 @@
+﻿  Arithmetic Operators.cpp
+R:\abu hadhoud\Arithmetic Operators\Arithmetic Operators\Arithmetic Operators.cpp(7,19): warning C4305: 'initializing': truncation from 'double' to 'float'
+  Arithmetic Operators.vcxproj -> R:\abu hadhoud\Arithmetic Operators\x64\Debug\Arithmetic Operators.exe
