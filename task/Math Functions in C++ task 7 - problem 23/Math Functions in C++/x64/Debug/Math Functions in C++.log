@@ -1,0 +1,5 @@
+﻿  Math Functions in C++.cpp
+R:\abu hadhoud\Math Functions in C++\Math Functions in C++\Math Functions in C++.cpp(10,22): warning C4305: 'initializing': truncation from 'double' to 'float'
+R:\abu hadhoud\Math Functions in C++\Math Functions in C++\Math Functions in C++.cpp(23,76): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+R:\abu hadhoud\Math Functions in C++\Math Functions in C++\Math Functions in C++.cpp(26,18): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Math Functions in C++.vcxproj -> R:\abu hadhoud\Math Functions in C++\x64\Debug\Math Functions in C++.exe
