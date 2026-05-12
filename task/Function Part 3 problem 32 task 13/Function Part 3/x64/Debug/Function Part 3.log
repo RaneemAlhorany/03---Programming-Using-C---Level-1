@@ -1,0 +1,3 @@
+﻿  Function Part 3.cpp
+R:\study\abu hadhoud\Function Part 3\Function Part 3\Function Part 3.cpp(8,12): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+  Function Part 3.vcxproj -> R:\study\abu hadhoud\Function Part 3\x64\Debug\Function Part 3.exe
