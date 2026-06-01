@@ -1,0 +1,3 @@
+﻿  Conditional Statements.cpp
+R:\study\abu hadhoud\Conditional Statements\Conditional Statements\Conditional Statements.cpp(23,39): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+  Conditional Statements.vcxproj -> R:\study\abu hadhoud\Conditional Statements\x64\Debug\Conditional Statements.exe
