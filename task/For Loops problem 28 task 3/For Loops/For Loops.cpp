@@ -19,7 +19,7 @@ int main()
 {
 	int Number;
 
-    cout << "Enter the number of times you want to print numbers from 1 to N: ";
+    cout << "Enter the number to get the summation of it : ";
 	cin >> Number;
 
     sumOddNumbersFromOneToN(Number);
