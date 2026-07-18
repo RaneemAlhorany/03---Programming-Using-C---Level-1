@@ -19,7 +19,7 @@ int main()
 {
 	int Number;
 
-    cout << "Enter the number to get the summation of it : ";
+    cout << "Enter the number to get the sum of odd numbers : ";
 	cin >> Number;
 
     sumOddNumbersFromOneToN(Number);
