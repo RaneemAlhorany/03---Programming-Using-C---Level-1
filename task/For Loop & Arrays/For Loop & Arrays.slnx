@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="For Loop &amp; Arrays/For Loop &amp; Arrays.vcxproj" />
+</Solution>
